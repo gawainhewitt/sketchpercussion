@@ -1,6 +1,4 @@
-// The Orchlab Percussion Box
 // Code by Gawain Hewitt gawainhewitt.co.uk December 2020
-// A project for Drake Music https://www.drakemusic.org/ for the Orchlab project https://orchlab.org/
 // Made using P5.js https://p5js.org/
 // currently using an old version of P5.sound as the latest version causes glitches on Chrome browse on Android
 
